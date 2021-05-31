@@ -17,7 +17,6 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeORM](https://typeorm.io/#/)
 - [Express](https://expressjs.com/pt-br/)
 - [Jest](https://jestjs.io/)
-- [SQL Editor Beekeeper Studio](https://www.beekeeperstudio.io/)
 
 ## :electric_plug:	Como executar o projeto
 - Clone o repositório
