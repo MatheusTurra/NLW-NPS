@@ -5,7 +5,7 @@
 
 ## :pencil2: Sobre
 O projeto consiste em uma API Rest capaz de calcular o [Net Promoter Score](https://pt.wikipedia.org/wiki/Net_Promoter_Score) (NPS) de uma empresa.
-Com a aplicação é possivel fazer o cadastro de usuários, cadastro de pesquisas e o envio de e-mail para os usuários responderem as pesquisas de satisfação e calculando o NPS baseado nas pesquisas.
+Com a aplicação é possivel fazer o cadastro de usuários, pesquisas e o envio de e-mail para os usuários responderem as pesquisas de satisfação e calculando o NPS baseado nas pesquisas.
 <br>
 O projeto foi desenvolvido durante a quarta edição da Next Level Week da RocketSeat na trilha Nodejs.
 
